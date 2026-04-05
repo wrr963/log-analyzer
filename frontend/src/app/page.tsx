@@ -1,8 +1,5 @@
 "use client";
 
-import { useState } from "react";
-import { Loader2, Terminal, AlertTriangle, CheckCircle, FileText, Send } from "lucide-react";
-
 import { useState, useEffect } from "react";
 import { Loader2, Terminal, AlertTriangle, CheckCircle, FileText, Send, Clock, History, ChevronRight } from "lucide-react";
 
