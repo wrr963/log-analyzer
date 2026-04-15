@@ -3,6 +3,7 @@ backend/venv/
 backend/__pycache__/
 backend/.env
 backend/*.pyc
+backend/*.db
 
 # Frontend (handled mostly by frontend/.gitignore, but just in case)
 frontend/node_modules/
